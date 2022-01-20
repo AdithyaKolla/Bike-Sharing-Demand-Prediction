@@ -11,6 +11,8 @@ Implemented Machine Learning Models to predict the Bike Sharing Demand
 5. Random Forest Regressor
 6. XGBoost Regressor
 
+Predicted the Bike Sharing Demand prediction with R-Square of 
+
 ## How to run the Streamlit app
 Clone the Repository and in the Command Line just type
 Streamlit run app.py
